@@ -1,0 +1,35 @@
+----------------------------------------------------------------
+Tue May 31 14:31:09 MSK 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0181-19e2-399f-000007089b80 
+on database directory C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands\firstdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/distrib/ApacheDerby/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 31 14:31:36 MSK 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance e66540fa-0181-19e2-399f-000007089b80 
+on database directory C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands\toptable with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/distrib/ApacheDerby/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 31 14:45:04 MSK 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Tue May 31 14:45:04 MSK 2022:
+Shutting down instance e66540fa-0181-19e2-399f-000007089b80 on database directory C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands\toptable with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+----------------------------------------------------------------
+Tue May 31 14:45:04 MSK 2022:
+Shutting down instance a816c00e-0181-19e2-399f-000007089b80 on database directory C:\NSP\2. Институт\2 курс\КПО\jigsaw_sockets_and_saving\commands\firstdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+----------------------------------------------------------------
